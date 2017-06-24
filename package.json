@@ -1,0 +1,14 @@
+{
+  "name": "headless-chrome-sample",
+  "version": "0.0.1",
+  "description": "headless chrome sample.",
+  "main": "main.js",
+  "repository": "git@github.com:Slowhand0309/headless-chrome-sample.git",
+  "author": "Slowhand0309 <slowhand0309@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-launcher": "^0.2.1",
+    "chrome-remote-interface": "^0.23.2",
+    "lighthouse": "^2.1.0"
+  }
+}
