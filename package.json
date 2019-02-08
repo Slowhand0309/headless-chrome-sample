@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "chrome-launcher": "^0.2.1",
-    "chrome-remote-interface": "^0.23.2",
+    "chrome-remote-interface": "^0.27.1",
     "lighthouse": "^2.1.0"
   }
 }
