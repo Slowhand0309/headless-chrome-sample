@@ -9,6 +9,6 @@
   "dependencies": {
     "chrome-launcher": "^0.10.6",
     "chrome-remote-interface": "^0.23.2",
-    "lighthouse": "^2.1.0"
+    "lighthouse": "^3.0.1"
   }
 }
